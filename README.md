@@ -1,1 +1,1 @@
-My first readme in the alx software engineering program
+My first readme
